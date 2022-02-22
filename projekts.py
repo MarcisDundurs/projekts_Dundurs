@@ -1,4 +1,4 @@
-from math import*
+from math import*  #izsaucam moduli
 
-x=sqrt(9)+2**5+abs(-5)
+x=sqrt(9)+2**5+abs(-5) 
 print(x)
